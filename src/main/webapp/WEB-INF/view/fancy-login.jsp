@@ -63,7 +63,7 @@
 					        </div>
 					    </div>
                			 <span id="reauth-email" class="reauth-email"></span>
-                		<input  id="inputEmail" name="username" class="form-control" placeholder="username" required autofocus>
+                		<input name="username" class="form-control" placeholder="username" required autofocus>
                 		<input type="password" id="inputPassword" name="password" class="form-control" placeholder="password" required>
                 		<button class="btn btn-lg btn-primary btn-block btn-signin" type="submit">Sign in</button>
                 
